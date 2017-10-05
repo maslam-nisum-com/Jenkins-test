@@ -9,5 +9,6 @@ public class JenkinsTestApplication  extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsTestApplication.class, args);
+		// A change ocured.
 	}
 }
